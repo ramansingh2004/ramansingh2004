@@ -4,7 +4,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Raman%20Singh&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20Engineering%20%E2%80%A2%20Cloud%20%26%20DevOps&descAlignY=55&animation=fadeIn&color=0:0F172A,50:2563EB,100:7C3AED&fontColor=FFFFFF" alt="Raman Singh header" />
+<h1>Hi, I'm Raman Singh 👋</h1>
+
+<h3>Full-Stack Developer • Backend Engineering • Cloud & DevOps</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+scalable+full-stack+products;Designing+reliable+backend+systems;Exploring+real-time+collaboration+%26+distributed+systems;Turning+ideas+into+production-ready+software" alt="Typing SVG" />
